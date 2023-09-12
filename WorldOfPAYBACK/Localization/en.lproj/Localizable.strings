@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  WorldOfPAYBACK
+
+  Created by Aleksey Klyonov on 12.09.2023.
+  
+*/
+
+// Mark: - Errors
+"Errors.NoInternet" = "No internet connection.";
+"Errors.NoTransactions" = "There is no transactions.";
+
+// Mark: - TransactionList
+
+"TransactionList.Loading.Message" = "Loading transactions";
+"TransactionList.Title" = "Transactions";
+"TransactionList.Total.Label" = "Total:";
+"TransactionList.Filter" = "Filter";
+"TransactionList.Filter.Categories" = "Categories";
